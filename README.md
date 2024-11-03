@@ -16,7 +16,7 @@
 
 <img src = "https://github.com/user-attachments/assets/087d2c04-f2e7-4a59-84d8-d860293a16f9" width="300px">
 
-<li>No arquivo .env, defina a variavel "DB_DATABASE" como "fichas_op"</li>
+<li>No arquivo .env, defina a variavel "DB_DATABASE" como "cadastro_jogos"</li>
 
 <img src = "https://github.com/user-attachments/assets/66dd51bc-4264-401e-946d-d105614e6521" width="300px">
 
@@ -24,7 +24,7 @@
 
 <img src = "https://github.com/user-attachments/assets/b0ac4565-7abe-4acc-8dad-b4ff5784335d" width="600px">
 
-<li>No menu do phpMyAdmin, selecione "Novo" -> Nomeie o banco como "fichas_op" -> clique em "Criar"</li>
+<li>No menu do phpMyAdmin, selecione "Novo" -> Nomeie o banco como "cadastro_jogos" -> clique em "Criar"</li>
 
 <img src = "https://github.com/user-attachments/assets/409c6c90-9128-4e2c-a54b-8679a1cc6cd9" width="600px">
 
